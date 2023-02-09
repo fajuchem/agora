@@ -1,0 +1,48 @@
+/** copied from https://app.bumper.fi/ */
+.border {
+  box-shadow: rgb(1 42 46) 2px 0px 0px 0px, rgb(1 42 46) 0px 2px 0px 0px, rgb(0 169 190) -2px 0px 0px 0px, rgb(0 169 190) 0px -2px 0px 0px, rgb(0 0 0) -4px 0px 0px 0px, rgb(0 0 0) 4px 0px 0px 0px, rgb(0 0 0) 0px 4px 0px 0px, rgb(0 0 0) 0px -4px 0px 0px, rgb(0 0 0) 0px 0px 0px 2px;
+  background-color: rgb(0, 72, 81);
+}
+
+.card {
+  color: rgb(140, 166, 174);
+  background-color: #002429;
+}
+
+.text {
+  font-family: 'Press Start 2P', sans-serif;
+  font-size: 10px !important;
+  padding: 10px;
+}
+
+.text div {
+  margin-bottom: 5px;
+}
+
+.footer {
+}
+
+.buy {
+  font-family: 'Press Start 2P', sans-serif;
+  color: rgb(255, 255, 255);
+  font-size: 13px;
+  box-shadow: rgb(145, 79, 27) 2px 0px 0px 0px, rgb(145, 79, 27) 0px 2px 0px 0px, rgb(224, 173, 133) -2px 0px 0px 0px, rgb(224, 173, 133) 0px -2px 0px 0px, rgb(0, 0, 0) -4px 0px 0px 0px, rgb(0, 0, 0) 4px 0px 0px 0px, rgb(0, 0, 0) 0px 4px 0px 0px, rgb(0, 0, 0) 0px -4px 0px 0px, rgb(0, 0, 0) 0px 0px 0px 2px;
+  font-weight: 700;
+  border-radius: 0px;
+  text-transform: inherit;
+  background-color: rgb(224, 122, 41);
+  margin: 10px;
+}
+
+.input {
+  background-color: #fff!important;
+  color: #333!important;
+  border-color: #ff5000;
+  border-radius: 0!important;
+  border-style: solid!important;
+  border-width: 2px!important;
+  font-family: Roboto,Arial,Helvetica,sans-serif;
+  font-size: 15px!important;
+  box-sizing: border-box!important;
+}
+

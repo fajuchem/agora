@@ -1,5 +1,4 @@
 network: goerli <br />
-project address: https://fajuchem.github.io/agora-arbitrage/ <br />
 smart contract address: https://goerli.etherscan.io/address/0x037f2B7c1352009ba41f9467eA7081c0313a2E90
 
 ### improvements:
